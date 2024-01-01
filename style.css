@@ -1,0 +1,157 @@
+
+
+.nbi{
+    width: 45%;
+}
+
+.p1h{
+    color: purple;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.p1p{
+    color: purple;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+/* ------------------------p 2--------------------------- */
+
+.p2h{
+    color: purple;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    font-weight: 600;
+}
+
+/* ------------------------------p3------------------------- */
+
+.card {
+    flex-direction: row;
+    background-color: rgb(238, 238, 238);
+    border-radius: 0px;
+  }
+
+  .card:hover{
+    background-color: purple;
+  }
+
+  /* .card:hover card-title{
+    background-color: rgb(255, 255, 255);
+  } */
+
+  .card img {
+    width: 30%;
+  }
+
+  .card-title{
+    color: purple;
+
+    font-weight: 700;
+  }
+
+  .card-text{
+    padding-top: 40px;
+    font-size: 20px;
+  }
+
+  /* -----------------------------------part 4-=-------------------------------- */
+
+  .p4h{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    font-weight: 600;
+    color: purple;
+  }
+
+  .p4p{
+    font-weight: 600;
+    font-size: 20px;
+    color: grey;
+  }
+
+
+  /* --------------------------------------------p5----------------------------------------- */
+
+
+  .p5{
+    background-image: url(https://images.pexels.com/photos/7054785/pexels-photo-7054785.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    height: 550px;
+    background-size: 100% 100%;
+}
+
+.p5p{
+  color: rgb(196, 158, 102);
+}
+ 
+.p5h{
+  font-family: 'Times New Roman', Times, serif;
+}
+
+
+/* ------------------------------------------footer------------------------------------- */
+
+.fi{
+  width: 20px;
+}
+
+.titlehead,.headspan,.pspan{
+  font-weight: 700;
+}
+
+.titlehead{
+  color: purple;
+}
+
+.headspan{
+  color: purple;
+}
+
+.pspan{
+  color: purple;
+}
+
+
+.z{
+  z-index: 5;
+  z-index: 3px;
+}
+.message{
+  width: 60px;
+  height: 60px;
+  background-color: purple;
+  border-radius: 50%;
+  position: fixed;
+  bottom: 30px;
+right:20px;
+
+}
+.message i{
+  position: absolute;
+  right: 13px;
+  top: 33px;
+}
+.whatsapp{
+  width:60px;
+  height: 60px;
+  position: fixed;
+  bottom: 30px;
+  left: 20px;
+}
+.whatsapp img{
+  width: 100%;
+
+}
+
+.scrollup i{
+  position: absolute;
+  right: 1px;
+}
+
+.fcs{
+  color: purple;
+  font-weight: 700;
+}
+  
